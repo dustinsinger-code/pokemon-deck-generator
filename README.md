@@ -1,5 +1,6 @@
 The code that you'd probably be most interested in seeing is located in deck/management/commands.
-I've create two commands, one called generate_deck, and another called view_previous_deck.<br /><br />
+I've create two commands, one called generate_deck, and another called view_previous_deck.
+The output of the deck is simply printed to the console with the card names.<br /><br />
 
 
 **The database schema is as follows:**
